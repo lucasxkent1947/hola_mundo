@@ -10,3 +10,6 @@
 #Iniciamos git escribiendo: git init
 
 # En GIT podemos identificar 3 estados - Working Directory -> Staging Area -> Repository
+
+
+#OTROS CAMBIOS
