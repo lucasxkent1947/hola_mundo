@@ -35,4 +35,4 @@ r = [a,b,c]
 
 print(r) """
 
-print(5+115)
+print(5+5)
