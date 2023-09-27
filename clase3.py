@@ -13,3 +13,8 @@
 
 
 #OTROS CAMBIOS
+
+
+# git remote add origin [pegar el enlace del repo]
+
+# git push -u origin master
