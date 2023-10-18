@@ -35,4 +35,7 @@ r = [a,b,c]
 
 print(r) """
 
-print(5+5)
+
+datos = [4, "Una cadena", -15, 3.14, "Otra cadena"]
+
+print(datos[0])
