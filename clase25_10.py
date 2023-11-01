@@ -107,6 +107,7 @@ duplicar_valores(x)
 print(x)
  """
 
+
 def duplicar_valor(numero):
     return numero * 2
 n = 100
