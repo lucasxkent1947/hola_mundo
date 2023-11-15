@@ -120,7 +120,7 @@ print(alimento)
 
 
 
-class Test:
+""" class Test:
     pass
 
 
@@ -167,3 +167,34 @@ lista = None
 
 print(lista)
 print(lista2)
+ """
+
+
+
+
+## HERENCIA MULTIPLE
+
+class A:
+    def __init__(self):
+        print("Soy una clase A")
+    def a(self):
+        print("Este metodo lo heredo de la A")
+        
+        
+class B: 
+    def __init__(self):
+        print("Soy una clase B")
+    def b(self):
+        print("Este metodo lo heredo de la B")
+        
+        
+class C (A,B):
+    def c(self):
+        print("Este metodo es del C")
+        
+        
+        
+c = C()
+c.a()
+c.b()
+c.c()
