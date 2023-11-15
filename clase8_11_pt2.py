@@ -174,7 +174,7 @@ print(lista2)
 
 ## HERENCIA MULTIPLE
 
-class A:
+""" class A:
     def __init__(self):
         print("Soy una clase A")
     def a(self):
@@ -197,4 +197,11 @@ class C (A,B):
 c = C()
 c.a()
 c.b()
-c.c()
+c.c() """
+
+
+
+
+
+
+
